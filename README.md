@@ -1,5 +1,5 @@
 # potencia-feminina-git-e-github
-Imitando o passo a passo das aulas
+Reproduzindo o passo a passo das aulas
 
 
 ## Modulo1
